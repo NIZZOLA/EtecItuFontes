@@ -1,0 +1,10 @@
+D:\Nizzola\jogoForca\Forca\Forca\bin\Debug\Forca.exe.config
+D:\Nizzola\jogoForca\Forca\Forca\bin\Debug\Forca.exe
+D:\Nizzola\jogoForca\Forca\Forca\bin\Debug\Forca.pdb
+D:\Nizzola\jogoForca\Forca\Forca\obj\Debug\Forca.csprojAssemblyReference.cache
+D:\Nizzola\jogoForca\Forca\Forca\obj\Debug\Forca.Form1.resources
+D:\Nizzola\jogoForca\Forca\Forca\obj\Debug\Forca.Properties.Resources.resources
+D:\Nizzola\jogoForca\Forca\Forca\obj\Debug\Forca.csproj.GenerateResource.cache
+D:\Nizzola\jogoForca\Forca\Forca\obj\Debug\Forca.csproj.CoreCompileInputs.cache
+D:\Nizzola\jogoForca\Forca\Forca\obj\Debug\Forca.exe
+D:\Nizzola\jogoForca\Forca\Forca\obj\Debug\Forca.pdb
